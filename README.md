@@ -1,6 +1,6 @@
 # Salut, je suis Amal 👋
 
-**Développeur Fullstack** passionné par la création d'applications web robustes, du back-end jusqu'à l'interface utilisateur.
+**Développeur Fullstack** passionnée par la création d'applications web robustes, du back-end jusqu'à l'interface utilisateur.
 
 ---
 
