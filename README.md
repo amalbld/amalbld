@@ -21,7 +21,7 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Todo App — Fullstack](https://github.com/amalbld/todo_app_fullstack) | Application CRUD complète avec API REST et interface Angular | Spring Boot · Angular · TypeScript |
+| [Todo App — Fullstack](https://github.com/amalbld/todo_app_fullstack) | Application CRUD complète avec API REST et interface Angular | Spring Boot · React |
 | [Calculator App](https://github.com/SpringBoot-and-React/calculator-api) | API de calcul exposée via REST, consommée par une UI React | Spring Boot · React |
 | [Recipe App](https://github.com/My-React-Applications/recipe_Application) | Application de recettes dynamique en React | React · JavaScript |
 | [Shopping List](https://github.com/My-React-Applications/shopping-list) | Gestionnaire de liste de courses en React | React · JavaScript |
